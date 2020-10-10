@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34996" started-at="2020-10-11T02:08:11 BDT" finished-at="2020-10-11T02:08:46 BDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34996" started-at="2020-10-11T02:08:11 BDT" finished-at="2020-10-11T02:08:46 BDT">
+      <class name="LICT.Sarowar_Lict_Automation_Project.TestPage_Reg">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:LICT.Sarowar_Lict_Automation_Project.TestPage_Reg@1786dec2]" name="beforeTest" is-config="true" duration-ms="19200" started-at="2020-10-11T02:08:11 BDT" finished-at="2020-10-11T02:08:30 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Reg_is_working_with_valid_data()[pri:0, instance:LICT.Sarowar_Lict_Automation_Project.TestPage_Reg@1786dec2]" name="Reg_is_working_with_valid_data" duration-ms="14338" started-at="2020-10-11T02:08:30 BDT" finished-at="2020-10-11T02:08:45 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reg_is_working_with_valid_data -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:LICT.Sarowar_Lict_Automation_Project.TestPage_Reg@1786dec2]" name="afterTest" is-config="true" duration-ms="1354" started-at="2020-10-11T02:08:45 BDT" finished-at="2020-10-11T02:08:46 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- LICT.Sarowar_Lict_Automation_Project.TestPage_Reg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
